@@ -1,2 +1,0 @@
-# CAMP-SOT
-NONE
